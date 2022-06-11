@@ -1,0 +1,200 @@
+n02124075	kot egipski
+n04067472	rolka
+n04540053	Siatkówka
+n04099969	bujane krzesło
+n07749582	cytrynowy
+n01641577	żaba rycząca
+n02802426	Koszykówka
+n09246464	Klif
+n07920052	Espresso
+n03970156	tłoknurnikowy
+n03891332	Parkometr
+n02106662	Owczarekniemiecki
+n03201208	stół obiadowy
+n02279972	monarcha
+n02132136	brązowyniedźwiedź
+n04146614	autobus szkolny
+n07873807	Pizza
+n02364673	świnka morska
+n04507155	parasol
+n03854065	organ
+n03838899	obój
+n03733131	maypole
+n01443537	złota Rybka
+n07875152	nocnik
+n03544143	klepsydra
+n09428293	pobrzeże
+n03085013	klawiatura komputerowa
+n02437312	wielbłąd arabski
+n07614500	lody
+n03804744	gwóźdź
+n04265275	grzejnik pokojowy
+n02963159	sweter rozpinany
+n02486410	pawian
+n01944390	ślimak
+n09256479	Rafa koralowa
+n02058221	albatros
+n04275548	pajęcza sieć
+n02321529	ogórek morski
+n02769748	plecak
+n02099712	Labrador Retriever
+n07695742	precel
+n02056570	pingwin królewski
+n02281406	motyl siarkowy
+n01774750	tarantula
+n02509815	mniejsza panda
+n03983396	butelka pop
+n07753592	banan
+n04254777	skarpetka
+n02233338	karaluch
+n04008634	pocisk
+n02823428	butelka piwa
+n02236044	modliszka
+n03393912	wagon towarowy
+n07583066	guacamole
+n04074963	pilot
+n01629819	Europejska salamandra plamista
+n09332890	nad jeziorem
+n02481823	szympans
+n03902125	płatny telefon
+n03404251	futro
+n09193705	turnia
+n03637318	klosz
+n04456115	latarka
+n02666196	liczydło
+n03796401	poruszający się Wan
+n02795169	beczka
+n02123045	mora
+n01855672	gęś
+n01882714	koala
+n02917067	Pocisk z pociskami
+n02988304	odtwarzacz CD
+n04398044	czajniczek
+n02843684	ptaszarnia
+n02423022	gazela
+n02669723	„suknia akademicka
+n04465501	ciągnik
+n02165456	biedronka
+n03770439	mini spódniczka
+n02099601	Golden retriever
+n04486054	Łuk triumfalny
+n02950826	armata
+n03814639	orteza szyi
+n04259630	sombrero
+n03424325	maska ​​gazowa
+n02948072	świeca
+n03179701	biurko
+n03400231	patelnia
+n02206856	pszczoła
+n03160309	zapora
+n01984695	kolczasty homar
+n03977966	policyjna furgonetka
+n03584254	iPod
+n04023962	worek treningowy
+n02814860	latarnia morska
+n01910747	Meduza
+n04596742	wok
+n03992509	koło garncarskie
+n04133789	sandał
+n03937543	butelka pigułki
+n02927161	Rzeźnik
+n01945685	ślimak
+n02395406	wieprz
+n02125311	puma
+n03126707	dźwig
+n04532106	ornat
+n02268443	ważka
+n02977058	bankomat
+n07734744	Grzyb
+n03599486	jinrikisha
+n04562935	wieża ciśnień
+n03014705	skrzynia
+n04251144	rurka donurkowania
+n04356056	okulary słoneczne
+n02190166	latać
+n03670208	limuzyna
+n02002724	bocian czarny
+n02074367	diugoń
+n04285008	samochód sportowy
+n04560804	dzban wody
+n04366367	Most wiszący
+n02403003	wół
+n07615774	Lodowy lizak
+n04501370	bramka
+n03026506	Świąteczna skarpeta
+n02906734	miotła
+n01770393	Skorpion
+n04597913	drewniana łyżka
+n03930313	Pikieta ogrodzenia
+n04118538	piłka do rugby
+n04179913	maszyna do szycia
+n04311004	stalowy most łukowy
+n02123394	Kot perski
+n04070727	lodówka
+n02793495	stodoła
+n02730930	Fartuch
+n02094433	Yorkshire terier
+n04371430	kąpielówki
+n04328186	stoper
+n03649909	Kosiarka
+n04417672	strzecha
+n03388043	fontanna
+n01774384	czarna Wdowa
+n02837789	bikini
+n07579787	talerz
+n04399382	Miś
+n02791270	fryzjer
+n03089624	Cukiernia
+n02814533	wózek plażowy
+n04149813	tablica wyników
+n07747607	Pomarańczowy
+n03355925	maszt flagowy
+n01983481	Homar amerykański
+n04487081	trolejbusowy
+n03250847	pałeczka do gryna bębnie
+n03255030	hantle
+n02892201	mosiądz
+n02883205	muszka
+n03100240	zamienny
+n02415577	duży róg
+n02480495	orangutan
+n01698640	Aligator amerykański
+n01784675	skolopendra
+n04376876	strzykawka
+n03444034	Gokart
+n01917289	koral mózgowy
+n01950731	ślimak morski
+n03042490	mieszkaniena klifie
+n07711569	tłuczone ziemniaki
+n04532670	wiadukt
+n03763968	Mundur wojskowy
+n07768694	granat
+n02999410	łańcuch
+n03617480	kimono
+n06596364	komiks
+n01768244	trylobit
+n02410509	bizon
+n03976657	Polak
+n01742172	boa dusiciel
+n03980874	ponczo
+n02808440	wanna
+n02226429	konik polny
+n02231487	kula inwalidzka
+n02085620	Chihuahua
+n01644900	ogoniasta żaba
+n02129165	Lew
+n02699494	ołtarz
+n03837869	obelisk
+n02815834	zlewka
+n07720875	papryka
+n02788148	balustrada
+n02909870	wiaderko
+n03706229	kompas magnetyczny
+n07871810	Pieczeń mięsna
+n03447447	gondola
+n02113799	standardowy pudel
+n12267677	żołądź
+n03662601	łódź ratunkowa
+n02841315	lornetka
+n07715103	kalafior
+n02504458	Słoń afrykański
