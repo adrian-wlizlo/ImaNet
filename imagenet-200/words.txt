@@ -1,200 +1,200 @@
-n02124075	kot egipski
-n04067472	rolka
-n04540053	Siatkówka
-n04099969	bujane krzesło
-n07749582	cytrynowy
-n01641577	żaba rycząca
-n02802426	Koszykówka
-n09246464	Klif
-n07920052	Espresso
-n03970156	tłoknurnikowy
-n03891332	Parkometr
-n02106662	Owczarekniemiecki
-n03201208	stół obiadowy
-n02279972	monarcha
-n02132136	brązowyniedźwiedź
-n04146614	autobus szkolny
-n07873807	Pizza
-n02364673	świnka morska
-n04507155	parasol
-n03854065	organ
-n03838899	obój
-n03733131	maypole
-n01443537	złota Rybka
-n07875152	nocnik
-n03544143	klepsydra
-n09428293	pobrzeże
-n03085013	klawiatura komputerowa
-n02437312	wielbłąd arabski
-n07614500	lody
-n03804744	gwóźdź
-n04265275	grzejnik pokojowy
-n02963159	sweter rozpinany
-n02486410	pawian
-n01944390	ślimak
-n09256479	Rafa koralowa
-n02058221	albatros
-n04275548	pajęcza sieć
-n02321529	ogórek morski
-n02769748	plecak
-n02099712	Labrador Retriever
-n07695742	precel
-n02056570	pingwin królewski
-n02281406	motyl siarkowy
-n01774750	tarantula
-n02509815	mniejsza panda
-n03983396	butelka pop
-n07753592	banan
-n04254777	skarpetka
-n02233338	karaluch
-n04008634	pocisk
-n02823428	butelka piwa
-n02236044	modliszka
-n03393912	wagon towarowy
-n07583066	guacamole
-n04074963	pilot
-n01629819	Europejska salamandra plamista
-n09332890	nad jeziorem
-n02481823	szympans
-n03902125	płatny telefon
-n03404251	futro
-n09193705	turnia
-n03637318	klosz
-n04456115	latarka
-n02666196	liczydło
-n03796401	poruszający się Wan
-n02795169	beczka
-n02123045	mora
-n01855672	gęś
-n01882714	koala
-n02917067	Pocisk z pociskami
-n02988304	odtwarzacz CD
-n04398044	czajniczek
-n02843684	ptaszarnia
-n02423022	gazela
-n02669723	„suknia akademicka
-n04465501	ciągnik
-n02165456	biedronka
-n03770439	mini spódniczka
-n02099601	Golden retriever
-n04486054	Łuk triumfalny
-n02950826	armata
-n03814639	orteza szyi
-n04259630	sombrero
-n03424325	maska ​​gazowa
-n02948072	świeca
-n03179701	biurko
-n03400231	patelnia
-n02206856	pszczoła
-n03160309	zapora
-n01984695	kolczasty homar
-n03977966	policyjna furgonetka
-n03584254	iPod
-n04023962	worek treningowy
-n02814860	latarnia morska
-n01910747	Meduza
-n04596742	wok
-n03992509	koło garncarskie
-n04133789	sandał
-n03937543	butelka pigułki
-n02927161	Rzeźnik
-n01945685	ślimak
-n02395406	wieprz
-n02125311	puma
-n03126707	dźwig
-n04532106	ornat
-n02268443	ważka
-n02977058	bankomat
-n07734744	Grzyb
-n03599486	jinrikisha
-n04562935	wieża ciśnień
-n03014705	skrzynia
-n04251144	rurka donurkowania
-n04356056	okulary słoneczne
-n02190166	latać
-n03670208	limuzyna
-n02002724	bocian czarny
-n02074367	diugoń
-n04285008	samochód sportowy
-n04560804	dzban wody
-n04366367	Most wiszący
-n02403003	wół
-n07615774	Lodowy lizak
-n04501370	bramka
-n03026506	Świąteczna skarpeta
-n02906734	miotła
-n01770393	Skorpion
-n04597913	drewniana łyżka
-n03930313	Pikieta ogrodzenia
-n04118538	piłka do rugby
-n04179913	maszyna do szycia
-n04311004	stalowy most łukowy
-n02123394	Kot perski
-n04070727	lodówka
-n02793495	stodoła
-n02730930	Fartuch
-n02094433	Yorkshire terier
-n04371430	kąpielówki
-n04328186	stoper
-n03649909	Kosiarka
-n04417672	strzecha
-n03388043	fontanna
-n01774384	czarna Wdowa
-n02837789	bikini
-n07579787	talerz
-n04399382	Miś
-n02791270	fryzjer
-n03089624	Cukiernia
-n02814533	wózek plażowy
-n04149813	tablica wyników
-n07747607	Pomarańczowy
-n03355925	maszt flagowy
-n01983481	Homar amerykański
-n04487081	trolejbusowy
-n03250847	pałeczka do gryna bębnie
-n03255030	hantle
-n02892201	mosiądz
-n02883205	muszka
-n03100240	zamienny
-n02415577	duży róg
-n02480495	orangutan
-n01698640	Aligator amerykański
-n01784675	skolopendra
-n04376876	strzykawka
-n03444034	Gokart
-n01917289	koral mózgowy
-n01950731	ślimak morski
-n03042490	mieszkaniena klifie
-n07711569	tłuczone ziemniaki
-n04532670	wiadukt
-n03763968	Mundur wojskowy
-n07768694	granat
-n02999410	łańcuch
-n03617480	kimono
-n06596364	komiks
-n01768244	trylobit
-n02410509	bizon
-n03976657	Polak
-n01742172	boa dusiciel
-n03980874	ponczo
-n02808440	wanna
-n02226429	konik polny
-n02231487	kula inwalidzka
-n02085620	Chihuahua
-n01644900	ogoniasta żaba
-n02129165	Lew
-n02699494	ołtarz
-n03837869	obelisk
-n02815834	zlewka
-n07720875	papryka
-n02788148	balustrada
-n02909870	wiaderko
-n03706229	kompas magnetyczny
-n07871810	Pieczeń mięsna
-n03447447	gondola
-n02113799	standardowy pudel
-n12267677	żołądź
-n03662601	łódź ratunkowa
-n02841315	lornetka
-n07715103	kalafior
-n02504458	Słoń afrykański
+n02124075	kot egipski	zwierze
+n04067472	rolka	przedmiot
+n04540053	Siatkówka	sport
+n04099969	bujane krzesło	przedmiot
+n07749582	cytryna	jedzenie
+n01641577	żaba rycząca	zwierze
+n02802426	Koszykówka	sport
+n09246464	Klif	krajobraz
+n07920052	Espresso	przedmiot
+n03970156	tłok nurnikowy	przedmiot
+n03891332	Parkometr	przedmiot
+n02106662	Owczarek niemiecki	zwierze
+n03201208	stół obiadowy	przedmiot
+n02279972	monarcha	osoba
+n02132136	brązowy niedźwiedź	zwierze
+n04146614	autobus szkolny	pojazd
+n07873807	Pizza	jedzenie
+n02364673	świnka morska	zwierze
+n04507155	parasol	przedmiot
+n03854065	organ	przedmiot
+n03838899	obój	przedmiot
+n03733131	maypole	przedmiot
+n01443537	złota Rybka	zwierze
+n07875152	nocnik	przedmiot
+n03544143	klepsydra	przedmiot
+n09428293	pobrzeże	krajobraz
+n03085013	klawiatura komputerowa	przedmiot
+n02437312	wielbłąd arabski	zwierze
+n07614500	lody	jedzenie
+n03804744	gwóźdź	przedmiot
+n04265275	grzejnik pokojowy	przedmiot
+n02963159	sweter rozpinany	ubranie
+n02486410	pawian	zwierze
+n01944390	ślimak	zwierze
+n09256479	Rafa koralowa	krajobraz
+n02058221	albatros	krajobraz
+n04275548	pajęcza sieć	zwierze
+n02321529	ogórek morski	zwierze
+n02769748	plecak	przedmiot
+n02099712	Labrador Retriever	zwierze
+n07695742	precel	jedzenie
+n02056570	pingwin królewski	zwierze
+n02281406	motyl siarkowy	zwierze
+n01774750	tarantula	zwierze
+n02509815	mniejsza panda	zwierze
+n03983396	butelka pop	przedmiot
+n07753592	banan	jedzenie
+n04254777	skarpetka	ubranie
+n02233338	karaluch	zwierze
+n04008634	pocisk	przedmiot
+n02823428	butelka piwa	przedmiot
+n02236044	modliszka	zwierze
+n03393912	wagon towarowy	przedmiot
+n07583066	guacamole	jedzenie
+n04074963	pilot	przedmiot
+n01629819	Europejska salamandra plamista	zwierze
+n09332890	nad jeziorem	krajobraz
+n02481823	szympans	zwierze
+n03902125	płatny telefon	przedmiot
+n03404251	futro	ubranie
+n09193705	turnia	krajobraz
+n03637318	klosz	przedmiot
+n04456115	latarka	przedmiot
+n02666196	liczydło	przedmiot
+n03796401	Wan	pojazd
+n02795169	beczka	przedmiot
+n02123045	mora	przedmiot
+n01855672	gęś	zwierze
+n01882714	koala	zwierze
+n02917067	Pocisk	przedmiot
+n02988304	odtwarzacz CD	przedmiot
+n04398044	czajniczek	przedmiot
+n02843684	ptaszarnia	krajobraz
+n02423022	gazela	zwierze
+n02669723	suknia akademicka	ubranie
+n04465501	ciągnik	pojazd
+n02165456	biedronka	zwierze
+n03770439	mini spódniczka	ubranie
+n02099601	Golden retriever	zwierze
+n04486054	Łuk triumfalny	krajobraz
+n02950826	armata	przedmiot
+n03814639	orteza szyi	przedmiot
+n04259630	sombrero	ubranie
+n03424325	maska ​​gazowa	ubranie
+n02948072	świeca	przedmiot
+n03179701	biurko	przedmiot
+n03400231	patelnia	przedmiot
+n02206856	pszczoła	zwierze
+n03160309	zapora	krajobraz
+n01984695	kolczasty homar	zwierze
+n03977966	policyjna furgonetka	pojazd
+n03584254	iPod	przedmiot
+n04023962	worek treningowy	przedmiot
+n02814860	latarnia morska	krajobraz
+n01910747	Meduza	zwierze
+n04596742	wok	przedmiot
+n03992509	koło garncarskie	przedmiot
+n04133789	sandał	ubranie
+n03937543	butelka	przedmiot
+n02927161	Rzeźnik	osoba
+n01945685	ślimak	zwierze
+n02395406	świnia	zwierze
+n02125311	puma	zwierze
+n03126707	dźwig	pojazd
+n04532106	ornat	ubranie
+n02268443	ważka	zwierze
+n02977058	bankomat	przedmiot
+n07734744	Grzyb	jedzenie
+n03599486	jinrikisha	pojazd
+n04562935	wieża ciśnień	krajobraz
+n03014705	skrzynia	przedmiot
+n04251144	rurka do nurkowania	przedmiot
+n04356056	okulary słoneczne	przedmiot
+n02190166	latanie	krajobraz
+n03670208	limuzyna	pojazd
+n02002724	bocian czarny	zwierze
+n02074367	diugoń	zwierze
+n04285008	samochód sportowy	pojazd
+n04560804	dzban wody	przedmiot
+n04366367	Most wiszący	krajobraz
+n02403003	wół	zwierze
+n07615774	Lodowy lizak	jedzenie
+n04501370	bramka	przedmiot
+n03026506	Świąteczna skarpeta	ubranie
+n02906734	miotła	przedmiot
+n01770393	Skorpion	zwierze
+n04597913	drewniana łyżka	przedmiot
+n03930313	Pikieta ogrodzenia	przedmiot
+n04118538	piłka do rugby	przedmiot
+n04179913	maszyna do szycia	przedmiot
+n04311004	stalowy most łukowy	krajobraz
+n02123394	Kot perski	zwierze
+n04070727	lodówka	przedmiot
+n02793495	stodoła	krajobraz
+n02730930	Fartuch	ubranie
+n02094433	Yorkshire terier	zwierze
+n04371430	kąpielówki	ubranie
+n04328186	stoper	przedmiot
+n03649909	Kosiarka	pojazd
+n04417672	strzecha	krajobraz
+n03388043	fontanna	krajobraz
+n01774384	czarna Wdowa	zwierze
+n02837789	bikini	ubranie
+n07579787	talerz	przedmiot
+n04399382	Miś	zwierze
+n02791270	fryzjer	osoba
+n03089624	Cukiernia	jedzenie
+n02814533	wózek plażowy	pojazd
+n04149813	tablica wyników	przedmiot
+n07747607	Pomarańcza	jedzenie
+n03355925	maszt flagowy	przedmiot
+n01983481	Homar amerykański	zwierze
+n04487081	trolejbus	pojazd
+n03250847	pałeczka do gry na bębnie	przedmiot
+n03255030	hantle	przedmiot
+n02892201	mosiądz	krajobraz
+n02883205	muszka	zwierze
+n03100240	zamienny	przedmiot
+n02415577	duży róg	przedmiot
+n02480495	orangutan	zwierze
+n01698640	Aligator amerykański	zwierze
+n01784675	skolopendra	zwierze
+n04376876	strzykawka	przedmiot
+n03444034	Gokart	pojazd
+n01917289	koral mózgowy	zwierze
+n01950731	ślimak morski	zwierze
+n03042490	mieszkanie na klifie	krajobraz
+n07711569	tłuczone ziemniaki	jedzenie
+n04532670	wiadukt	krajobraz
+n03763968	Mundur wojskowy	ubranie
+n07768694	granat	przedmiot
+n02999410	łańcuch	przedmiot
+n03617480	kimono	ubranie
+n06596364	komiks	przedmiot
+n01768244	trylobit	zwierze
+n02410509	bizon	zwierze
+n03976657	Polak	osoba
+n01742172	boa dusiciel	zwierze
+n03980874	ponczo	ubranie
+n02808440	wanna	przedmiot
+n02226429	konik polny	zwierze
+n02231487	kula inwalidzka	przedmiot
+n02085620	Chihuahua	zwierze
+n01644900	ogoniasta żaba	zwierze
+n02129165	Lew	zwierze
+n02699494	ołtarz	krajobraz
+n03837869	obelisk	krajobraz
+n02815834	zlewka	przedmiot
+n07720875	papryka	jedzenie
+n02788148	balustrada	przedmiot
+n02909870	wiaderko	przedmiot
+n03706229	kompas magnetyczny	przedmiot
+n07871810	Pieczeń mięsna	jedzenie
+n03447447	gondola	krajobraz
+n02113799	pudel	zwierze
+n12267677	żołądź	jedzenie
+n03662601	łódź ratunkowa	pojazd
+n02841315	lornetka	przedmiot
+n07715103	kalafior	jedzenie
+n02504458	Słoń afrykański	zwierze
